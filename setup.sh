@@ -2,7 +2,7 @@
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan obay Ganteng 3X Biar Work Xixixi:v"
 echo
 pkg install python
 clear
@@ -12,10 +12,10 @@ pkg install ruby -y
 clear
 gem install lolcat
 clear
-figlet YayanXD | lolcat
+figlet obay | lolcat
 sleep 2
 clear
-figlet YayanXD | lolcat
+figlet obay | lolcat
 sleep 2
 clear
 echo
@@ -45,4 +45,4 @@ pip2 install mechanize
 clear
 pip install requests bs4
 clear
-python2 Contoh.py
+python2 obay.py
